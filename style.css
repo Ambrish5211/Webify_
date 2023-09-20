@@ -43,6 +43,7 @@ li{
 .logo{
     width: 92px;
     height: 32px;
+    cursor: pointer;
 }
 
 .header{
@@ -120,4 +121,9 @@ h2{
     padding: 14px 22px;
     margin-top: 64px;
     cursor: pointer;
+}
+
+.hover:hover {
+    cursor: pointer;
+    color: yellow;
 }
